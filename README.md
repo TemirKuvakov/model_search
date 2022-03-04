@@ -1,4 +1,4 @@
-# Model Search Temir
+# Model Search Kuvakov
 
 ![header](https://raw.githubusercontent.com/google/model_search/master/model_search/images/model_search_logo.png)
 
@@ -6,7 +6,7 @@ Model search (MS) is a framework that implements AutoML algorithms for model arc
 aims to help researchers speed up their exploration process for finding the right
 model architecture for their classification problems (i.e., DNNs with different types of layers).
 
-Temir
+Kuvakov
 
 The library enables you to:
 
@@ -26,7 +26,7 @@ version supports classification problems only. Let's start by looking at some
 classic classification problems and see how the framework can automatically find competitive
 model architectures.
 
-## Getting Started Temir
+## Getting Started Kuvakov
 Let us start with the simplest case. You have a csv file where the features are numbers
 and you would like to run let AutoML find the best model architecture for you.
 
