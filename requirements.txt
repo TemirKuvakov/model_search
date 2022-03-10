@@ -1,6 +1,6 @@
 ssix==1.15.0
 ssklearn==0.0
-tensorflow==2.6.0
+ttensorflow==2.6.0
 tensorflow-estimator==2.6.0
 keras==2.6.0
 absl-py==0.10.0
