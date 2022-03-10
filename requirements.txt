@@ -1,6 +1,6 @@
-qsix==1.15.0
-qsklearn==0.0
-qtensorflow==2.6.0
+six==1.15.0
+sklearn==0.0
+tensorflow==2.6.0
 tensorflow-estimator==2.6.0
 keras==2.6.0
 absl-py==0.10.0
